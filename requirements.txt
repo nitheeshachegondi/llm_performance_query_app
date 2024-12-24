@@ -1,0 +1,5 @@
+llama_index==0.1.0         # For interacting with the Llama model
+requests==2.28.2           # For making API calls to Groq
+python-dotenv==0.21.0      # For managing API credentials securely
+pandas==1.5.2              # For date manipulation
+dateparser==1.0.0          # For parsing relative and various date formats
